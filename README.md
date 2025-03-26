@@ -56,7 +56,6 @@
 📌 Developed a **mobile-friendly portfolio** using **React (TSX), Tailwind CSS, React Router, and Hooks**.  
 📌 Showcases **skills, experience, and tools expertise**.  
 
-🚀 **Check out my repositories for more projects!**  
 
 ---
 
