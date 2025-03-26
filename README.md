@@ -1,9 +1,16 @@
 <h1 align="center">🚀 Sai Sankar Swarna - GitHub Portfolio</h1>
 
-![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-Welcome to my **GitHub portfolio**! I'm **Sai Sankar Swarna**, a **Software Engineer** with expertise in **Java, Python, and Spring Boot**.  
-This repository showcases my **projects, experience, and skills** in **backend development, microservices, and DevOps**.
+<!-- Create a container to hold the image and text -->
+<div style="display: flex; align-items: center; justify-content: center;">
+  <!-- Resize the GIF -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" style="width: 150px; height: auto; margin-right: 20px;">
+  
+  <!-- Text beside the GIF -->
+  <p style="font-size: 1.2em; max-width: 600px; text-align: left;">
+    Welcome to my <strong>GitHub portfolio</strong>! I'm <strong>Sai Sankar Swarna</strong>, a <strong>Software Engineer</strong> with expertise in <strong>Java, Python, and Spring Boot</strong>.  
+    This repository showcases my <strong>projects, experience, and skills</strong> in <strong>backend development, microservices, and DevOps</strong>.
+  </p>
+</div>
 
 ---
 
