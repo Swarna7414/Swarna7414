@@ -3,10 +3,11 @@
 <!-- Create a container to hold the image and text -->
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <!-- Resize the GIF -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" style="width: 150px; height: auto;">
+  
   
   <!-- Text beside the GIF -->
   <p style="font-size: 1.2em; max-width: 600px;">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" style="width: 150px; height: auto;">
     Welcome to my <strong>GitHub portfolio</strong>! I'm <strong>Sai Sankar Swarna</strong>, a <strong>Software Engineer</strong> with expertise in <strong>Java, Python, and Spring Boot</strong>.  
     This repository showcases my <strong>projects, experience, and skills</strong> in <strong>backend development, microservices, and DevOps</strong>.
   </p>
