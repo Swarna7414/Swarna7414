@@ -7,7 +7,7 @@
   
   <!-- Text beside the GIF -->
   <p style="font-size: 1.2em; max-width: 600px;">
-    Welcome to my <strong>GitHub portfolio</strong>! I'm <strong>Sai Sankar Swarna</strong>, a <strong>Software Engineer</strong> with expertise in <strong>Java, Python, and Spring Boot</strong>.  
+    Welcome to my <strong>GitHub Account</strong>! I'm <strong>Sai Sankar Swarna</strong>, a <strong>Software Engineer</strong> with expertise in <strong>Java, Python, and Spring Boot</strong>.  
     This repository showcases my <strong>projects, experience, and skills</strong> in <strong>backend development, microservices, and DevOps</strong>.
   </p>
 </div>
