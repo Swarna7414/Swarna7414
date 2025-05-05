@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Sai Sankar Swarna</h1>
+<h1 align="center">🖥️ Sai Sankar Swarna</h1>
 
 <!-- Create a container to hold the image and text -->
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
@@ -70,7 +70,7 @@
 ## 📫 Connect With Me  
 
 🌐 **Portfolio:** [SwarnaSai.com](https://web-portfolio-wine-five.vercel.app/)  
-🔗 **LinkedIn:** [in://SaiSankar.com](#)  
+🔗 **LinkedIn:** [in://SaiSankar.com](https://www.linkedin.com/in/swanra-sai-sankar-000797191)  
 📧 **Email:** swarnasaisankarnaidu369@gmail.com  
 
 💖 *Thanks for visiting my profile! Don't forget to ⭐ my repositories if you like my work!* 😊  
