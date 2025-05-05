@@ -56,6 +56,13 @@
 📌 Developed a **mobile-friendly portfolio** using **React (TSX), Tailwind CSS, React Router, and Hooks**.  
 📌 Showcases **skills, experience, and tools expertise**.  
 
+### **Agent Swarna 🤖** | [Live Demo](https://agent-front-end.vercel.app/)  
+📌 Built a custom OpenAI Gym environment with a 9-feature state space and continuous action space (-1 to 1).
+📌 News sentiment is integrated using VADER and NewsAPI for dynamic decision-making. 
+📌 Implemented using Stable-Baselines3, with training focused on maximizing net worth over time.
+📌 Live market data is pulled from OKX API, and the full backend runs on FastAPI. 
+📌 Deployed a web-based dashboard using React to monitor predictions and trading performance.
+📌 All key metrics like Sharpe ratio and drawdown were tracked for evaluation.
 
 ---
 
