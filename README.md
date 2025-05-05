@@ -52,7 +52,7 @@
 
 ## 🌟 Projects  
 
-### **Responsive Web Portfolio** | [Live Demo](https://web-portfolio-wine-five.vercel.app/)  
+### **Responsive Web Portfolio 🌐** | [Live Demo](https://web-portfolio-wine-five.vercel.app/)  
 📌 Developed a **mobile-friendly portfolio** using **React (TSX), Tailwind CSS, React Router, and Hooks**.  
 📌 Showcases **skills, experience, and tools expertise**.  
 
