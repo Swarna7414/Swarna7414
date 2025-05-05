@@ -1,4 +1,4 @@
-<h1 align="center">🖥️ Sai Sankar Swarna</h1>
+<h1 align="center">🧑🏽‍💻 Sai Sankar Swarna</h1>
 
 <!-- Create a container to hold the image and text -->
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
