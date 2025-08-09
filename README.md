@@ -32,7 +32,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swarna7414&layout=compact&theme=radical)  
 
 
-📈 ![Metrics](https://raw.githubusercontent.com/Swarna7414/Swarna7414/main/github-metrics.svg)
+📈 [Metrics](https://raw.githubusercontent.com/Swarna7414/Swarna7414/main/github-metrics.svg)
 
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Swarna7414&theme=react-dark&hide_border=true&radius=8)
