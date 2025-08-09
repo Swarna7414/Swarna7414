@@ -2,10 +2,6 @@
 
 <!-- Create a container to hold the image and text -->
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <!-- Resize the GIF -->
-  
-  
-  <!-- Text beside the GIF -->
   <p style="font-size: 1.2em; max-width: 600px;">
     Welcome to my <strong>GitHub Account</strong>! I'm <strong>Sai Sankar Swarna</strong>, a <strong>Software Engineer</strong> with expertise in <strong>Java, Python, and Spring Boot</strong>.  
     This repository showcases my <strong>projects, experience, and skills</strong> in <strong>backend development, microservices, and DevOps</strong>.
@@ -28,8 +24,18 @@
 🔹 **Technologies:** Tailwind CSS, Git, GitHub, Bitbucket  
 🔹 **Tools:** Postman, Jenkins, Docker, RLM (Release Lifecycle Management)  
 
-📊 **GitHub Stats:**  
+---
+
+## 📊 GitHub Insights
+
 ![Sai Sankar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swarna7414&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swarna7414&layout=compact&theme=radical)  
+
+<!-- GitHub Metrics -->
+![Metrics](https://raw.githubusercontent.com/Swarna7414/Swarna7414/main/github-metrics.svg)
+
+<!-- Activity Graph -->
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Swarna7414&theme=react-dark&hide_border=true&radius=8)
 
 ---
 
@@ -57,12 +63,12 @@
 📌 Showcases **skills, experience, and tools expertise**.  
 
 ### **Agent Swarna 🤖** | [Live Demo](https://agent-front-end.vercel.app/)  
-📌 Built a custom OpenAI Gym environment with a 9-feature state space and continuous action space (-1 to 1).**
-📌 News sentiment is integrated using VADER and NewsAPI for dynamic decision-making. **
-📌 Implemented using Stable-Baselines3, with training focused on maximizing net worth over time. **
-📌 Live market data is pulled from OKX API, and the full backend runs on FastAPI. **
-📌 Deployed a web-based dashboard using React to monitor predictions and trading performance. **
-📌 All key metrics like Sharpe ratio and drawdown were tracked for evaluation. **
+📌 Built a custom OpenAI Gym environment with a 9-feature state space and continuous action space (-1 to 1).  
+📌 News sentiment is integrated using VADER and NewsAPI for dynamic decision-making.  
+📌 Implemented using Stable-Baselines3, with training focused on maximizing net worth over time.  
+📌 Live market data is pulled from OKX API, and the full backend runs on FastAPI.  
+📌 Deployed a web-based dashboard using React to monitor predictions and trading performance.  
+📌 All key metrics like Sharpe ratio and drawdown were tracked for evaluation.  
 
 ---
 
@@ -81,5 +87,3 @@
 📧 **Email:** swarnasaisankarnaidu369@gmail.com  
 
 💖 *Thanks for visiting my profile! Don't forget to ⭐ my repositories if you like my work!* 😊  
-
----
