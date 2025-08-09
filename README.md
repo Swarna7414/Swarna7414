@@ -1,6 +1,6 @@
 <h1 align="center">🧑🏽‍💻 Sai Sankar Swarna</h1>
 
-<!-- Create a container to hold the image and text -->
+
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <p style="font-size: 1.2em; max-width: 600px;">
     Welcome to my <strong>GitHub Account</strong>! I'm <strong>Sai Sankar Swarna</strong>, a <strong>Software Engineer</strong> with expertise in <strong>Java, Python, and Spring Boot</strong>.  
@@ -31,10 +31,10 @@
 ![Sai Sankar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swarna7414&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swarna7414&layout=compact&theme=radical)  
 
-<!-- GitHub Metrics -->
-![Metrics](https://raw.githubusercontent.com/Swarna7414/Swarna7414/main/github-metrics.svg)
 
-<!-- Activity Graph -->
+📈 ![Metrics](https://raw.githubusercontent.com/Swarna7414/Swarna7414/main/github-metrics.svg)
+
+
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Swarna7414&theme=react-dark&hide_border=true&radius=8)
 
 ---
