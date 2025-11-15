@@ -45,7 +45,7 @@
   />
 
 
-![Github Snake](https://github.com/Swarna7414/Swarna7414/blob/output/github-contribution-grid-snake.svg)
+![Metrics](https://metrics.lecoq.io/Swarna7414?template=classic&config.timezone=America%2FChicago)
 
 
 
