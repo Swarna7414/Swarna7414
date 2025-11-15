@@ -28,20 +28,20 @@
 
 ## 📊 GitHub Insights
 
-<div align="center" style="display: flex; flex-direction: row; align-items: center; gap: 20px;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-  <!-- GitHub Stats -->
+  <!-- GitHub Stats Card -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Swarna7414&show_icons=true&theme=radical" 
-    alt="My GitHub Stats"
-    style="width: 70%; max-width: 500px;"
+    alt="GitHub Stats"
+    style="width: 48%; min-width: 300px;"
   />
 
-  <!-- Top Languages -->
+  <!-- Top Languages Card -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarna7414&layout=compact&theme=radical" 
     alt="Top Languages"
-    style="width: 70%; max-width: 500px;"
+    style="width: 48%; min-width: 300px;"
   />
 
 </div>
