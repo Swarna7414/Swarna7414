@@ -31,7 +31,6 @@
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 1000px;">
 
-    <!-- Top row – GitHub Stats & Top Languages -->
     <img 
       src="https://github-readme-stats.vercel.app/api?username=Swarna7414&show_icons=true&theme=radical" 
       alt="GitHub Stats"
@@ -44,7 +43,6 @@
       style="flex: 1 1 320px; max-width: 480px;"
     />
 
-    <!-- Bottom row – full-width Productive Time card -->
     <img 
       src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Swarna7414&theme=radical"
       alt="Productive Time"
