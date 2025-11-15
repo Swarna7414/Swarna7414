@@ -44,6 +44,10 @@
     style="width: 48%; min-width: 300px;"
   />
 
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Swarna7414&theme=radical)
+
+
 </div>
 
 
