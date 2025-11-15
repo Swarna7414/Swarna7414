@@ -45,7 +45,8 @@
   />
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Swarna7414&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Swarna7414&theme=radical&hide_border=false)
+
 
 
 </div>
