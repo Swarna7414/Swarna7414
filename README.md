@@ -45,7 +45,7 @@
   />
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Swarna7414&theme=radical&hide_border=false)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Swarna7414&theme=radical&margin-w=5&margin-h=5)
 
 
 
