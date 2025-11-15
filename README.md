@@ -45,8 +45,7 @@
   />
 
 
-![Metrics](https://metrics.lecoq.io/Swarna7414?template=classic&config.timezone=America%2FChicago)
-
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Swarna7414&theme=radical)
 
 
 </div>
