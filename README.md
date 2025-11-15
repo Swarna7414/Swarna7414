@@ -45,7 +45,7 @@
   />
 
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Swarna7414&theme=radical&margin-w=5&margin-h=5)
+![Github Snake](https://github.com/Swarna7414/Swarna7414/blob/output/github-contribution-grid-snake.svg)
 
 
 
