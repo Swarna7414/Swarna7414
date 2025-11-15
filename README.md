@@ -28,7 +28,7 @@
 
 ## 📊 GitHub Insights
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+<div align="center" style="display: flex; flex-direction: row; align-items: center; gap: 20px;">
 
   <!-- GitHub Stats -->
   <img 
