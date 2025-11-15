@@ -48,7 +48,7 @@
     <tr>
       <td colspan="2" align="center">
         <img
-          src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Swarna7414&theme=radical"
+          src="https://streak-stats.demolab.com?user=Swarna7414&theme=radical&hide_border=false"
           alt="Productive Time"
           width="100%"
         />
