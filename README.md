@@ -1,6 +1,5 @@
 <h1 align="center">🧑🏽‍💻 Sai Sankar Swarna</h1>
 
-
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <p style="font-size: 1.2em; max-width: 600px;">
     Welcome to my <strong>GitHub Account</strong>! I'm <strong>Sai Sankar Swarna</strong>, a <strong>Software Engineer</strong> with expertise in <strong>Java, Python, and Spring Boot</strong>.  
@@ -28,31 +27,37 @@
 
 ## 📊 GitHub Insights
 
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 1000px;">
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=Swarna7414&show_icons=true&theme=radical"
+          alt="GitHub Stats"
+          width="100%"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarna7414&layout=compact&theme=radical"
+          alt="Top Languages"
+          width="100%"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img
+          src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Swarna7414&theme=radical"
+          alt="Productive Time"
+          width="100%"
+        />
+      </td>
+    </tr>
+  </table>
+</p>
 
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=Swarna7414&show_icons=true&theme=radical" 
-      alt="GitHub Stats"
-      style="flex: 1 1 320px; max-width: 480px;"
-    />
-
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarna7414&layout=compact&theme=radical" 
-      alt="Top Languages"
-      style="flex: 1 1 320px; max-width: 480px;"
-    />
-
-    <img 
-      src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Swarna7414&theme=radical"
-      alt="Productive Time"
-      style="margin-top: 20px; width: 100%; max-width: 1000px;"
-    />
-
-  </div>
-</div>
-
-
+---
 
 ## 🏢 Experience  
 
