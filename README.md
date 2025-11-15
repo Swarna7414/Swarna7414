@@ -28,26 +28,30 @@
 
 ## 📊 GitHub Insights
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 1000px;">
 
-  <!-- GitHub Stats Card -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Swarna7414&show_icons=true&theme=radical" 
-    alt="GitHub Stats"
-    style="width: 48%; min-width: 300px;"
-  />
+    <!-- Top row – GitHub Stats & Top Languages -->
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=Swarna7414&show_icons=true&theme=radical" 
+      alt="GitHub Stats"
+      style="flex: 1 1 320px; max-width: 480px;"
+    />
 
-  <!-- Top Languages Card -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarna7414&layout=compact&theme=radical" 
-    alt="Top Languages"
-    style="width: 48%; min-width: 300px;"
-  />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarna7414&layout=compact&theme=radical" 
+      alt="Top Languages"
+      style="flex: 1 1 320px; max-width: 480px;"
+    />
 
+    <!-- Bottom row – full-width Productive Time card -->
+    <img 
+      src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Swarna7414&theme=radical"
+      alt="Productive Time"
+      style="margin-top: 20px; width: 100%; max-width: 1000px;"
+    />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Swarna7414&theme=radical&hide_border=false)
-
-
+  </div>
 </div>
 
 
