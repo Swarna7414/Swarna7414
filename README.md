@@ -32,9 +32,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swarna7414&layout=compact&theme=radical)  
 
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Swarna7414&theme=react-dark&hide_border=true&radius=8)
-
----
 
 ## 🏢 Experience  
 
