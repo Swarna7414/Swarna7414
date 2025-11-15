@@ -45,7 +45,7 @@
   />
 
 
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Swarna7414&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Swarna7414&theme=radical&hide_border=false)
 
 
 </div>
