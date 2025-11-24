@@ -45,15 +45,6 @@
         />
       </td>
     </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img
-          src="https://streak-stats.demolab.com?user=Swarna7414&theme=radical&hide_border=false"
-          alt="Productive Time"
-          width="100%"
-        />
-      </td>
-    </tr>
   </table>
 </p>
 
