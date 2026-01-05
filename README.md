@@ -34,10 +34,10 @@
   </table>
 </p>
 
----
+
 
 ## <strong>PROFESSIONAL EXPERIENCE</strong>
----
+
 
 ### <strong>Tata Consultancy Services – Citi Group</strong>  
 *Backend Developer | July 2022 – Dec 2024*
@@ -48,7 +48,7 @@
 • Managed **release lifecycles** using **RLM and OpenShift**  
 • Handled incidents and deployment requests using **ServiceNow**
 
----
+
 
 ### <strong>CorPay – Java Developer</strong>
 
@@ -56,10 +56,10 @@
 • Upgraded applications from **Java 8 to Java 17** using **OpenRewrite**  
 • Tested and validated APIs for functionality and performance using **Postman**
 
----
+
 
 ## <strong>PROJECTS</strong>
----
+
 
 ### <strong>Responsive Web Portfolio</strong>  
 [Live Demo](https://web-portfolio-wine-five.vercel.app/)
@@ -67,7 +67,7 @@
 • Developed a responsive and mobile-friendly portfolio using **React (TSX), Tailwind CSS, React Router, and Hooks**  
 • Showcased professional experience, technical skills, and project work  
 
----
+
 
 ### <strong>Agent Swarna</strong>  
 [Live Demo](https://agent-front-end.vercel.app/)
@@ -79,25 +79,24 @@
 • Developed a **React-based dashboard** to visualize predictions and trading performance  
 • Tracked key evaluation metrics including **Sharpe ratio and drawdown**
 
----
+
 
 ## <strong>CERTIFICATIONS</strong>
----
+
 
 • Building Microservices with Spring Boot  
 • Mathematics for Machine Learning  
 • Java Programming  
 
----
+
 
 ## <strong>CONNECT WITH ME</strong>
----
 
-• **Portfolio:** https://web-portfolio-wine-five.vercel.app/  
+• **Portfolio:** https://swarna7414.github.io/SwarnaSaiSankar/
 • **LinkedIn:** https://www.linkedin.com/in/swanra-sai-sankar-000797191  
-• **Email:** swarnasaisankarnaidu369@gmail.com  
+• **Email:** swarnasaisankar369@gmail.com  
 
----
+
 
 <p align="center">
   Thank you for visiting my GitHub profile. Feel free to explore my repositories and connect with me.
