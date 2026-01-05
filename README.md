@@ -1,31 +1,36 @@
-<h1 align="center">🧑🏽‍💻 Sai Sankar Swarna</h1>
-
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <p style="font-size: 1.2em; max-width: 600px;">
-    Welcome to my <strong>GitHub Account</strong>! I'm <strong>Sai Sankar Swarna</strong>, a <strong>Software Engineer</strong> with expertise in <strong>Java, Python, and Spring Boot</strong>.  
-    This repository showcases my <strong>projects, experience, and skills</strong> in <strong>backend development, microservices, and DevOps</strong>.
-  </p>
-</div>
+<h1 align="center"><strong>Sai Sankar Swarna</strong></h1>
 
 ---
 
-## 📌 About Me  
-💻 **Software Engineer** with **2.5+ years of experience** in **Spring Boot, Java, and Python**  
-⚙️ Skilled in **Microservices, APIs, and DevOps tools** like **Jenkins, Docker, and RLM**  
-🚀 Passionate about **Scalable & Efficient System Design**  
-🎓 **Master’s in Computer Science** @ University of South Dakota *(Jan 2025 - Present)*  
+<p align="center">
+  Welcome to my <strong>GitHub account</strong>. I am <strong>Sai Sankar Swarna</strong>, a <strong>Software Engineer</strong> with experience in <strong>Java, Python, and Spring Boot</strong>.  
+  This repository highlights my <strong>projects, professional experience, and technical skills</strong> across <strong>backend development, microservices, and DevOps</strong>.
+</p>
 
 ---
 
-## 🛠️ Tech Stack  
-🔹 **Languages:** Java, Python, TypeScript  
-🔹 **Frameworks & Libraries:** Spring Boot, React (TSX), JUnit & Mockito, NumPy, PyTorch, Pandas, Matplotlib  
-🔹 **Technologies:** Tailwind CSS, Git, GitHub, Bitbucket  
-🔹 **Tools:** Postman, Jenkins, Docker, RLM (Release Lifecycle Management)  
+## <strong>ABOUT ME</strong>
+---
+
+• Software Engineer with **2.5+ years of experience** in **Spring Boot, Java, and Python**  
+• Strong background in **Microservices, REST APIs, and DevOps workflows**  
+• Experienced with **CI/CD automation, containerization, and scalable system design**  
+• Master’s in **Computer Science**, University of South Dakota *(Jan 2025 – Present)*  
 
 ---
 
-## 📊 GitHub Insights
+## <strong>TECH STACK</strong>
+---
+
+• **Languages:** Java, Python, TypeScript  
+• **Frameworks & Libraries:** Spring Boot, React (TSX), JUnit, Mockito, NumPy, PyTorch, Pandas, Matplotlib  
+• **Technologies:** Tailwind CSS, Git, GitHub, Bitbucket  
+• **Tools:** Postman, Jenkins, Docker, RLM (Release Lifecycle Management)  
+
+---
+
+## <strong>GITHUB INSIGHTS</strong>
+---
 
 <p align="center">
   <table>
@@ -50,51 +55,69 @@
 
 ---
 
-## 🏢 Experience  
+## <strong>PROFESSIONAL EXPERIENCE</strong>
+---
 
-### **Tata Consultancy Services – Citi Group (Backend Developer)**  
-📅 *July 2022 - Dec 2024*  
-✅ Developed **scalable microservices** and APIs using **Spring Boot**.  
-✅ Ensured code reliability with **JUnit and Mockito** testing.  
-✅ Automated **CI/CD pipelines** with **Jenkins**, integrated **Bitbucket and SonarQube** for **code quality feedback**.  
-✅ Managed **release lifecycles** with **RLM and OpenShift**.  
-✅ Used **ServiceNow** for **efficient incident and deployment management**.  
+### <strong>Tata Consultancy Services – Citi Group</strong>  
+*Backend Developer | July 2022 – Dec 2024*
 
-### **CorPay – Java Developer**  
-✅ Migrated code from **SVN to Bitbucket**, cleaned **POM files**, and performed **security checks**.  
-✅ Upgraded **Java 8 to Java 17** using **OpenRewrite**.  
-✅ Validated **API functionality and performance** using **Postman**.  
+• Developed scalable **microservices and REST APIs** using **Spring Boot**  
+• Ensured application reliability through **unit testing with JUnit and Mockito**  
+• Automated **CI/CD pipelines** using **Jenkins**, integrated with **Bitbucket and SonarQube**  
+• Managed **release lifecycles** using **RLM and OpenShift**  
+• Handled incidents and deployment requests using **ServiceNow**
 
 ---
 
-## 🌟 Projects  
+### <strong>CorPay – Java Developer</strong>
 
-### **Responsive Web Portfolio 🌐** | [Live Demo](https://web-portfolio-wine-five.vercel.app/)  
-📌 Developed a **mobile-friendly portfolio** using **React (TSX), Tailwind CSS, React Router, and Hooks**.  
-📌 Showcases **skills, experience, and tools expertise**.  
-
-### **Agent Swarna 🤖** | [Live Demo](https://agent-front-end.vercel.app/)  
-📌 Built a custom OpenAI Gym environment with a 9-feature state space and continuous action space (-1 to 1).  
-📌 News sentiment is integrated using VADER and NewsAPI for dynamic decision-making.  
-📌 Implemented using Stable-Baselines3, with training focused on maximizing net worth over time.  
-📌 Live market data is pulled from OKX API, and the full backend runs on FastAPI.  
-📌 Deployed a web-based dashboard using React to monitor predictions and trading performance.  
-📌 All key metrics like Sharpe ratio and drawdown were tracked for evaluation.  
+• Migrated legacy codebase from **SVN to Bitbucket**, cleaned POM files, and resolved dependency issues  
+• Upgraded applications from **Java 8 to Java 17** using **OpenRewrite**  
+• Tested and validated APIs for functionality and performance using **Postman**
 
 ---
 
-## 📜 Certifications  
+## <strong>PROJECTS</strong>
+---
 
-🏆 **Building Microservices with Spring Boot**  
-🏆 **Mathematics for Machine Learning**  
-🏆 **Java Programming**  
+### <strong>Responsive Web Portfolio</strong>  
+[Live Demo](https://web-portfolio-wine-five.vercel.app/)
+
+• Developed a responsive and mobile-friendly portfolio using **React (TSX), Tailwind CSS, React Router, and Hooks**  
+• Showcased professional experience, technical skills, and project work  
 
 ---
 
-## 📫 Connect With Me  
+### <strong>Agent Swarna</strong>  
+[Live Demo](https://agent-front-end.vercel.app/)
 
-🌐 **Portfolio:** [SwarnaSai.com](https://web-portfolio-wine-five.vercel.app/)  
-🔗 **LinkedIn:** [in://SaiSankar.com](https://www.linkedin.com/in/swanra-sai-sankar-000797191)  
-📧 **Email:** swarnasaisankarnaidu369@gmail.com  
+• Built a custom **OpenAI Gym environment** with a 9-feature state space and continuous action space  
+• Integrated **news sentiment analysis** using **VADER and NewsAPI** for decision-making  
+• Trained reinforcement learning models using **Stable-Baselines3** to optimize net worth  
+• Pulled live market data from **OKX API** and deployed backend services using **FastAPI**  
+• Developed a **React-based dashboard** to visualize predictions and trading performance  
+• Tracked key evaluation metrics including **Sharpe ratio and drawdown**
 
-💖 *Thanks for visiting my profile! Don't forget to ⭐ my repositories if you like my work!* 😊  
+---
+
+## <strong>CERTIFICATIONS</strong>
+---
+
+• Building Microservices with Spring Boot  
+• Mathematics for Machine Learning  
+• Java Programming  
+
+---
+
+## <strong>CONNECT WITH ME</strong>
+---
+
+• **Portfolio:** https://web-portfolio-wine-five.vercel.app/  
+• **LinkedIn:** https://www.linkedin.com/in/swanra-sai-sankar-000797191  
+• **Email:** swarnasaisankarnaidu369@gmail.com  
+
+---
+
+<p align="center">
+  Thank you for visiting my GitHub profile. Feel free to explore my repositories and connect with me.
+</p>
