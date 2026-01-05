@@ -1,8 +1,10 @@
 <h1 align="center"><strong>Sai Sankar Swarna</strong></h1>
 
 <p align="justify">
-  Welcome to my <strong>GitHub account</strong>. I am <strong>Sai Sankar Swarna</strong>,a Full Stack Developer with over 3.5 years of experience building web applications with React, Java, and Python. I love creating responsive interfaces using Tailwind CSS and reliable back-end systems with Spring Boot. I've worked with microservices, RESTful APIs, and real-time communication through WebSocket’s. Comfortable deploying applications on AWS (EC2, ECS, EKS), setting up CI/CD pipelines with Jenkins. .
+  Welcome to my <strong>GitHub account</strong>. I am <strong>Sai Sankar Swarna</strong>, a Full Stack Developer with over 3.5 years of experience building web applications with React, Java, and Python. I enjoy creating responsive user interfaces using Tailwind CSS and developing reliable backend systems with Spring Boot. I have worked with microservices, RESTful APIs, and real-time communication using WebSockets, and I am comfortable deploying applications on AWS (EC2, ECS, EKS) and setting up CI/CD pipelines with Jenkins.
 </p>
+
+---
 
 ## <strong>TECH STACK</strong>
 
@@ -10,6 +12,8 @@
 • **Frameworks & Libraries:** Spring Boot, React (TSX), JUnit, Mockito, NumPy, PyTorch, Pandas, Matplotlib  
 • **Technologies:** Tailwind CSS, Git, GitHub, Bitbucket  
 • **Tools:** Postman, Jenkins, Docker, RLM (Release Lifecycle Management)  
+
+---
 
 ## <strong>GITHUB INSIGHTS</strong>
 
@@ -34,10 +38,9 @@
   </table>
 </p>
 
-
+---
 
 ## <strong>PROFESSIONAL EXPERIENCE</strong>
-
 
 ### <strong>Tata Consultancy Services – Citi Group</strong>  
 *Backend Developer | July 2022 – Dec 2024*
@@ -48,18 +51,25 @@
 • Managed **release lifecycles** using **RLM and OpenShift**  
 • Handled incidents and deployment requests using **ServiceNow**
 
-
-
 ### <strong>CorPay – Java Developer</strong>
 
 • Migrated legacy codebase from **SVN to Bitbucket**, cleaned POM files, and resolved dependency issues  
 • Upgraded applications from **Java 8 to Java 17** using **OpenRewrite**  
 • Tested and validated APIs for functionality and performance using **Postman**
 
-
+---
 
 ## <strong>PROJECTS</strong>
 
+### <strong>DentiMap – Full-Stack AI Dental Diagnostics Web Application</strong>  
+[Link](https://github.com/DebeshJha/DentiMap)
+
+• Designed and developed a full-stack AI application that processes uploaded dental scans and delivers automated diagnostic insights for caries and gum health with confidence-based visual explanations  
+• Developed a responsive, production-ready frontend using **React, TypeScript, and Tailwind CSS**, ensuring clean UX and accessibility  
+• Implemented secure authentication workflows using **Spring Security**, including user registration, login, OTP verification, password recovery, and OAuth redirects  
+• Designed backend security using **JWT-based authentication** and **BCrypt password encryption**  
+• Built backend services for **email verification, OTP lifecycle management, password reset**, and user profile operations  
+• Integrated AI services to analyze dental images and return structured, user-friendly results for clinical-style insights  
 
 ### <strong>Responsive Web Portfolio</strong>  
 [Live Demo](https://web-portfolio-wine-five.vercel.app/)
@@ -67,36 +77,23 @@
 • Developed a responsive and mobile-friendly portfolio using **React (TSX), Tailwind CSS, React Router, and Hooks**  
 • Showcased professional experience, technical skills, and project work  
 
-
-
-### <strong>Agent Swarna</strong>  
-[Live Demo](https://agent-front-end.vercel.app/)
-
-• Built a custom **OpenAI Gym environment** with a 9-feature state space and continuous action space  
-• Integrated **news sentiment analysis** using **VADER and NewsAPI** for decision-making  
-• Trained reinforcement learning models using **Stable-Baselines3** to optimize net worth  
-• Pulled live market data from **OKX API** and deployed backend services using **FastAPI**  
-• Developed a **React-based dashboard** to visualize predictions and trading performance  
-• Tracked key evaluation metrics including **Sharpe ratio and drawdown**
-
-
+---
 
 ## <strong>CERTIFICATIONS</strong>
-
 
 • Building Microservices with Spring Boot  
 • Mathematics for Machine Learning  
 • Java Programming  
 
-
+---
 
 ## <strong>CONNECT WITH ME</strong>
 
-• **Portfolio:** https://swarna7414.github.io/SwarnaSaiSankar/
+• **Portfolio:** https://swarna7414.github.io/SwarnaSaiSankar/  
 • **LinkedIn:** https://www.linkedin.com/in/swanra-sai-sankar-000797191  
 • **Email:** swarnasaisankar369@gmail.com  
 
-
+---
 
 <p align="center">
   Thank you for visiting my GitHub profile. Feel free to explore my repositories and connect with me.
