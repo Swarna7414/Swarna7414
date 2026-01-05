@@ -4,7 +4,7 @@
   Welcome to my <strong>GitHub account</strong>. I am <strong>Sai Sankar Swarna</strong>, a Full Stack Developer with over 3.5 years of experience building web applications with React, Java, and Python. I enjoy creating responsive user interfaces using Tailwind CSS and developing reliable backend systems with Spring Boot. I have worked with microservices, RESTful APIs, and real-time communication using WebSockets, and I am comfortable deploying applications on AWS (EC2, ECS, EKS) and setting up CI/CD pipelines with Jenkins.
 </p>
 
----
+
 
 ## <strong>Skills Summary</strong>
 
@@ -13,7 +13,7 @@
 • **Technologies:** Tailwind CSS, Git, GitHub, Bitbucket  
 • **Tools:** Postman, Jenkins, Docker, RLM (Release Lifecycle Management)  
 
----
+
 
 ## <strong>GITHUB INSIGHTS</strong>
 
@@ -38,7 +38,7 @@
   </table>
 </p>
 
----
+
 
 ## <strong>PROFESSIONAL EXPERIENCE</strong>
 
@@ -57,12 +57,12 @@
 • Upgraded applications from **Java 8 to Java 17** using **OpenRewrite**  
 • Tested and validated APIs for functionality and performance using **Postman**
 
----
+
 
 ## <strong>PROJECTS</strong>
 
-### <strong>DentiMap : Full-Stack AI Dental Diagnostics Web Application</strong>  
-[Link](https://github.com/DebeshJha/DentiMap)
+### <strong>DentiMap : Full-Stack AI Dental Diagnostics Web Application</strong> — [Link](https://github.com/DebeshJha/DentiMap)
+
 
 • Designed and developed a full-stack AI application that processes uploaded dental scans and delivers automated diagnostic insights for caries and gum health with confidence-based visual explanations  
 • Developed a responsive, production-ready frontend using **React, TypeScript, and Tailwind CSS**, ensuring clean UX and accessibility  
@@ -78,7 +78,6 @@
 • Mathematics for Machine Learning  
 • Java Programming  
 
----
 
 ## <strong>CONNECT WITH ME</strong>
 
@@ -86,7 +85,7 @@
 • **LinkedIn:** https://www.linkedin.com/in/swanra-sai-sankar-000797191  
 • **Email:** swarnasaisankar369@gmail.com  
 
----
+
 
 <p align="center">
   Thank you for visiting my GitHub profile. Feel free to explore my repositories and connect with me.
