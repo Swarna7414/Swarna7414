@@ -1,8 +1,6 @@
 <h1 align="center"><strong>Sai Sankar Swarna</strong></h1>
 
----
-
-<p align="center">
+<p align="justify">
   Welcome to my <strong>GitHub account</strong>. I am <strong>Sai Sankar Swarna</strong>,a Full Stack Developer with over 3.5 years of experience building web applications with React, Java, and Python. I love creating responsive interfaces using Tailwind CSS and reliable back-end systems with Spring Boot. I've worked with microservices, RESTful APIs, and real-time communication through WebSocket’s. Comfortable deploying applications on AWS (EC2, ECS, EKS), setting up CI/CD pipelines with Jenkins. .
 </p>
 
