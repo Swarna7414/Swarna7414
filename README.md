@@ -57,6 +57,15 @@
 • Upgraded applications from **Java 8 to Java 17** using **OpenRewrite**  
 • Tested and validated APIs for functionality and performance using **Postman**
 
+### <strong>University of South Dakota</strong>  
+*Graduate Research Assistant – Frontend Developer | Jan 2024 – May 2026*
+
+• Worked on building frontend interfaces using **React** to make AI and machine learning models developed by the department usable through simple web applications  
+• Updated department websites using **HTML and plain CSS**, improving layout structure, responsiveness, and content accessibility  
+• Supported existing projects by fixing UI issues and improving previously developed project interfaces to enhance usability and overall user experience  
+• Collaborated with faculty members and research teams to understand project requirements and translate them into practical frontend features  
+• Assisted with integrating model APIs and backend services into the frontend to support real-time results and visual outputs
+
 
 
 ## <strong>PROJECTS</strong>
