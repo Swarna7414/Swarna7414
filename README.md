@@ -61,7 +61,7 @@
 
 ## <strong>PROJECTS</strong>
 
-### <strong>DentiMap – Full-Stack AI Dental Diagnostics Web Application</strong>  
+### <strong>DentiMap : Full-Stack AI Dental Diagnostics Web Application</strong>  
 [Link](https://github.com/DebeshJha/DentiMap)
 
 • Designed and developed a full-stack AI application that processes uploaded dental scans and delivers automated diagnostic insights for caries and gum health with confidence-based visual explanations  
