@@ -6,7 +6,7 @@
 
 ---
 
-## <strong>TECH STACK</strong>
+## <strong>Skills Summary</strong>
 
 • **Languages:** Java, Python, TypeScript  
 • **Frameworks & Libraries:** Spring Boot, React (TSX), JUnit, Mockito, NumPy, PyTorch, Pandas, Matplotlib  
@@ -71,13 +71,6 @@
 • Built backend services for **email verification, OTP lifecycle management, password reset**, and user profile operations  
 • Integrated AI services to analyze dental images and return structured, user-friendly results for clinical-style insights  
 
-### <strong>Responsive Web Portfolio</strong>  
-[Live Demo](https://web-portfolio-wine-five.vercel.app/)
-
-• Developed a responsive and mobile-friendly portfolio using **React (TSX), Tailwind CSS, React Router, and Hooks**  
-• Showcased professional experience, technical skills, and project work  
-
----
 
 ## <strong>CERTIFICATIONS</strong>
 
