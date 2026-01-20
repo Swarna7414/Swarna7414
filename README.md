@@ -10,8 +10,6 @@
   I’ve worked extensively on enterprise systems involving <strong>microservices architecture</strong>, <strong>RESTful APIs</strong>, <strong>secure authentication</strong>, and <strong>CI/CD pipelines</strong>. I enjoy building clean, reliable systems and continuously improving application performance, security, and user experience.
 </p>
 
----
-
 ## Skills Summary
 
 **Languages**  
@@ -29,7 +27,6 @@
 **Testing and Tools**  
 • JUnit, Mockito, Postman, Git, GitHub, Bitbucket  
 
----
 
 ## GitHub Insights
 
@@ -54,7 +51,6 @@
   </table>
 </p>
 
----
 
 ## Professional Experience
 
@@ -68,8 +64,6 @@
 • Built and maintained CI/CD pipelines using Jenkins integrated with Bitbucket  
 • Collaborated with developers, QA, and DevOps teams during releases and production deployments  
 
----
-
 ### CorPay – Java Developer
 
 • Migrated source code from SVN to Bitbucket following modern version-control practices  
@@ -78,7 +72,6 @@
 • Tested and validated APIs using Postman  
 • Supported containerized deployments using Docker and Kubernetes  
 
----
 
 ### University of South Dakota  
 **Graduate Research Assistant – Frontend Developer | Jan 2025 – May 2026**
@@ -88,7 +81,6 @@
 • Collaborated with faculty and research teams to convert research requirements into user-facing features  
 • Integrated backend APIs into frontend applications for real-time results and visual outputs  
 
----
 
 ## Projects
 
@@ -101,7 +93,6 @@ Link: https://github.com/DebeshJha/DentiMap
 • Designed secure flows for registration, login, OTP verification, password reset, and OAuth  
 • Integrated AI services to analyze dental scans and return structured diagnostic insights  
 
----
 
 ### SwaRAG – Stack Overflow Retrieval and Analysis Engine
 
@@ -110,7 +101,6 @@ Link: https://github.com/DebeshJha/DentiMap
 • Developed a Flask REST API and React frontend  
 • Containerized using Docker and deployed on Hugging Face Spaces  
 
----
 
 ## Education
 
@@ -119,7 +109,6 @@ GPA: 3.9 / 4.0
 
 **Bachelor’s in Mechanical Engineering** – Sree Vidyanikethan Engineering College  
 
----
 
 ## Certifications
 
@@ -127,7 +116,6 @@ GPA: 3.9 / 4.0
 • Mathematics for Machine Learning  
 • Java Programming  
 
----
 
 ## Connect With Me
 
