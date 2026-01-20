@@ -93,7 +93,8 @@
 • Integrated AI services to analyze dental scans and return structured diagnostic insights  
 
 
-### SwaRAG – Stack Overflow Retrieval and Analysis Engine
+### SwaRAG – Stack Overflow Retrieval and Analysis Engine – *[link](https://swarna7414.github.io/SwaRAG-FrontEnd/)*
+
 
 • Built a custom search engine using BM25 ranking and inverted indexing  
 • Implemented data ingestion via the Stack Exchange API  
