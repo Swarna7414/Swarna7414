@@ -1,35 +1,51 @@
 <h1 align="center"><strong>Sai Sankar Swarna</strong></h1>
 
-<p align="justify">
-  Welcome to my <strong>GitHub account</strong>. I am <strong>Sai Sankar Swarna</strong>, a Full Stack Developer with over 3.5 years of experience building web applications with React, Java, and Python. I enjoy creating responsive user interfaces using Tailwind CSS and developing reliable backend systems with Spring Boot. I have worked with microservices, RESTful APIs, and real-time communication using WebSockets, and I am comfortable deploying applications on AWS (EC2, ECS, EKS) and setting up CI/CD pipelines with Jenkins.
+<p align="center">
+  Full Stack Developer | Java • Spring Boot • React • AWS
 </p>
 
+<p align="justify">
+  Welcome to my GitHub! I’m <strong>Sai Sankar Swarna</strong>, a Full Stack Developer with <strong>3.5+ years of professional experience</strong> building scalable, production-grade web applications. I specialize in designing <strong>Spring Boot microservices</strong>, developing modern <strong>React and TypeScript frontends</strong>, and deploying cloud-native applications on <strong>AWS</strong>.
+  <br/><br/>
+  I’ve worked extensively on enterprise systems involving <strong>microservices architecture</strong>, <strong>RESTful APIs</strong>, <strong>secure authentication</strong>, and <strong>CI/CD pipelines</strong>. I enjoy building clean, reliable systems and continuously improving application performance, security, and user experience.
+</p>
 
+---
 
-## <strong>Skills Summary</strong>
+## Skills Summary
 
-• **Languages:** Java, Python, TypeScript  
-• **Frameworks & Libraries:** Spring Boot, React (TSX), JUnit, Mockito, NumPy, PyTorch, Pandas, Matplotlib  
-• **Technologies:** Tailwind CSS, Git, GitHub, Bitbucket  
-• **Tools:** Postman, Jenkins, Docker, RLM (Release Lifecycle Management)  
+**Languages**  
+• Java (8–17), Python, TypeScript  
 
+**Backend**  
+• Spring Boot, Spring Security, JPA/Hibernate, REST APIs, JWT, OAuth  
 
+**Frontend**  
+• React (TSX), Tailwind CSS, HTML, CSS  
 
-## <strong>GITHUB INSIGHTS</strong>
+**DevOps and Cloud**  
+• AWS (EC2, ECS, EKS), Docker, Kubernetes, Jenkins, CI/CD  
+
+**Testing and Tools**  
+• JUnit, Mockito, Postman, Git, GitHub, Bitbucket  
+
+---
+
+## GitHub Insights
 
 <p align="center">
   <table>
     <tr>
       <td>
         <img
-          src="https://github-readme-stats.vercel.app/api?username=Swarna7414&show_icons=true&theme=radical&cache_seconds=86400"
+          src="https://github-readme-stats.vercel.app/api?username=Swarna7414&show_icons=true&theme=radical"
           alt="GitHub Stats"
           width="100%"
         />
       </td>
       <td>
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarna7414&layout=compact&theme=radical&cache_seconds=86400"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarna7414&layout=compact&theme=radical"
           alt="Top Languages"
           width="100%"
         />
@@ -38,64 +54,87 @@
   </table>
 </p>
 
+---
 
+## Professional Experience
 
-## <strong>PROFESSIONAL EXPERIENCE</strong>
+### Tata Consultancy Services (TCS) – Citi Group  
+**Backend Developer | Jul 2022 – Dec 2024**
 
-### <strong>Tata Consultancy Services – Citi Group</strong>  
-*Backend Developer | July 2022 – Dec 2024*
+• Contributed to the migration of a monolithic Tibco application into a microservices-based architecture  
+• Designed and developed Spring Boot REST APIs supporting enterprise customer onboarding workflows  
+• Implemented database persistence using Spring Data JPA and Hibernate  
+• Achieved approximately 80 percent unit test coverage using JUnit and Mockito  
+• Built and maintained CI/CD pipelines using Jenkins integrated with Bitbucket  
+• Collaborated with developers, QA, and DevOps teams during releases and production deployments  
 
-• Developed scalable **microservices and REST APIs** using **Spring Boot**  
-• Ensured application reliability through **unit testing with JUnit and Mockito**  
-• Automated **CI/CD pipelines** using **Jenkins**, integrated with **Bitbucket and SonarQube**  
-• Managed **release lifecycles** using **RLM and OpenShift**  
-• Handled incidents and deployment requests using **ServiceNow**
+---
 
-### <strong>CorPay – Java Developer</strong>
+### CorPay – Java Developer
 
-• Migrated legacy codebase from **SVN to Bitbucket**, cleaned POM files, and resolved dependency issues  
-• Upgraded applications from **Java 8 to Java 17** using **OpenRewrite**  
-• Tested and validated APIs for functionality and performance using **Postman**
+• Migrated source code from SVN to Bitbucket following modern version-control practices  
+• Upgraded applications from Java 8 to Java 17 using OpenRewrite  
+• Assisted with migration from Java EE to Jakarta EE  
+• Tested and validated APIs using Postman  
+• Supported containerized deployments using Docker and Kubernetes  
 
-### <strong>University of South Dakota</strong>  
-*Graduate Research Assistant – Frontend Developer | Jan 2024 – May 2026*
+---
 
-• Worked on building frontend interfaces using **React** to make AI and machine learning models developed by the department usable through simple web applications  
-• Updated department websites using **HTML and plain CSS**, improving layout structure, responsiveness, and content accessibility  
-• Supported existing projects by fixing UI issues and improving previously developed project interfaces to enhance usability and overall user experience  
-• Collaborated with faculty members and research teams to understand project requirements and translate them into practical frontend features  
-• Assisted with integrating model APIs and backend services into the frontend to support real-time results and visual outputs
+### University of South Dakota  
+**Graduate Research Assistant – Frontend Developer | Jan 2025 – May 2026**
 
+• Built frontend interfaces using React to visualize AI and machine learning research models  
+• Improved usability and responsiveness of department websites using HTML and CSS  
+• Collaborated with faculty and research teams to convert research requirements into user-facing features  
+• Integrated backend APIs into frontend applications for real-time results and visual outputs  
 
+---
 
-## <strong>PROJECTS</strong>
+## Projects
 
-### <strong>DentiMap : Full-Stack AI Dental Diagnostics Web Application</strong> - [Link](https://github.com/DebeshJha/DentiMap)
+### DentiMap – AI Dental Diagnostics Web Application  
+Link: https://github.com/DebeshJha/DentiMap
 
+• Developed a full-stack AI web application for dental image analysis  
+• Built a responsive frontend using React, TypeScript, and Tailwind CSS  
+• Implemented Spring Security with JWT-based authentication and BCrypt encryption  
+• Designed secure flows for registration, login, OTP verification, password reset, and OAuth  
+• Integrated AI services to analyze dental scans and return structured diagnostic insights  
 
-• Designed and developed a full-stack AI application that processes uploaded dental scans and delivers automated diagnostic insights for caries and gum health with confidence-based visual explanations  
-• Developed a responsive, production-ready frontend using **React, TypeScript, and Tailwind CSS**, ensuring clean UX and accessibility  
-• Implemented secure authentication workflows using **Spring Security**, including user registration, login, OTP verification, password recovery, and OAuth redirects  
-• Designed backend security using **JWT-based authentication** and **BCrypt password encryption**  
-• Built backend services for **email verification, OTP lifecycle management, password reset**, and user profile operations  
-• Integrated AI services to analyze dental images and return structured, user-friendly results for clinical-style insights  
+---
 
+### SwaRAG – Stack Overflow Retrieval and Analysis Engine
 
-## <strong>CERTIFICATIONS</strong>
+• Built a custom search engine using BM25 ranking and inverted indexing  
+• Implemented data ingestion via the Stack Exchange API  
+• Developed a Flask REST API and React frontend  
+• Containerized using Docker and deployed on Hugging Face Spaces  
+
+---
+
+## Education
+
+**Master’s in Computer Science** – University of South Dakota  
+GPA: 3.9 / 4.0  
+
+**Bachelor’s in Mechanical Engineering** – Sree Vidyanikethan Engineering College  
+
+---
+
+## Certifications
 
 • Building Microservices with Spring Boot  
 • Mathematics for Machine Learning  
 • Java Programming  
 
+---
 
-## <strong>CONNECT WITH ME</strong>
+## Connect With Me
 
-• **Portfolio:** https://swarna7414.github.io/SwarnaSaiSankar/  
-• **LinkedIn:** https://www.linkedin.com/in/swanra-sai-sankar-000797191  
-• **Email:** swarnasaisankar369@gmail.com  
-
-
+• Portfolio: https://swarna7414.github.io/SwarnaSaiSankar/  
+• LinkedIn: https://www.linkedin.com/in/sai-sankar-swarna  
+• Email: swarnasaisankar369@gmail.com  
 
 <p align="center">
-  Thank you for visiting my GitHub profile. Feel free to explore my repositories and connect with me.
+  Thank you for visiting my GitHub profile. Feel free to explore my repositories and connect.
 </p>
