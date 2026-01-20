@@ -84,8 +84,7 @@
 
 ## Projects
 
-### DentiMap – AI Dental Diagnostics Web Application  
-Link: https://github.com/DebeshJha/DentiMap
+### DentiMap – AI Dental Diagnostics Web Application – *[link](https://github.com/DebeshJha/DentiMap)*
 
 • Developed a full-stack AI web application for dental image analysis  
 • Built a responsive frontend using React, TypeScript, and Tailwind CSS  
