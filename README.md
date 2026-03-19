@@ -13,7 +13,7 @@
 ## Skills Summary
 
 **Languages**  
-• Java (8–17), Python, TypeScript  
+• Java (8,11,17), Python, TypeScript  
 
 **Backend**  
 • Spring Boot, Spring Security, JPA/Hibernate, REST APIs, JWT, OAuth  
