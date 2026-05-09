@@ -5,7 +5,7 @@
 </p>
 
 <p align="justify">
-  Welcome to my GitHub! I’m <strong>Sai Sankar Swarna</strong>, a Full Stack Developer with <strong>3.5+ years of professional experience</strong> building scalable, production-grade web applications. I specialize in designing <strong>Spring Boot microservices</strong>, developing modern <strong>React and TypeScript frontends</strong>, and deploying cloud-native applications on <strong>AWS</strong>.
+  Welcome to my GitHub! I’m <strong>Sai Sankar Swarna</strong>, a Full Stack Developer with <strong>3+ years of professional experience</strong> building scalable, production-grade web applications. I specialize in designing <strong>Spring Boot microservices</strong>, developing modern <strong>React and TypeScript frontends</strong>, and deploying cloud-native applications on <strong>AWS</strong>.
   <br/><br/>
   I’ve worked extensively on enterprise systems involving <strong>microservices architecture</strong>, <strong>RESTful APIs</strong>, <strong>secure authentication</strong>, and <strong>CI/CD pipelines</strong>. I enjoy building clean, reliable systems and continuously improving application performance, security, and user experience.
 </p>
