@@ -1,128 +1,178 @@
-<h1 align="center"><strong>Sai Sankar Swarna</strong></h1>
+<h1 align="center">Sai Sankar Swarna</h1>
 
 <p align="center">
-  Full Stack Developer | Java • Spring Boot • React • AWS
+Senior Java Full Stack Developer | Java | Spring Boot | Microservices | React | AWS
 </p>
 
-<p align="justify">
-  Welcome to my GitHub! I’m <strong>Sai Sankar Swarna</strong>, a Full Stack Developer with <strong>3+ years of professional experience</strong> building scalable, production-grade web applications. I specialize in designing <strong>Spring Boot microservices</strong>, developing modern <strong>React and TypeScript frontends</strong>, and deploying cloud-native applications on <strong>AWS</strong>.
-  <br/><br/>
-  I’ve worked extensively on enterprise systems involving <strong>microservices architecture</strong>, <strong>RESTful APIs</strong>, <strong>secure authentication</strong>, and <strong>CI/CD pipelines</strong>. I enjoy building clean, reliable systems and continuously improving application performance, security, and user experience.
+<p align="center">
+<a href="https://www.linkedin.com/in/sai-sankar-swarna-a1084a203/">LinkedIn</a> |
+<a href="https://swarna7414.github.io/Swarna-s-portfolio/#home">Portfolio</a> |
+<a href="mailto:swarnasaisankar003@gmail.com">Email</a>
 </p>
 
-## Skills Summary
+---
+
+## About Me
+
+I am a Senior Java Full Stack Developer with 5.5+ years of experience building enterprise applications across banking, financial services, and healthcare.
+
+My primary experience is in Java, Spring Boot, Microservices, REST APIs, React, Angular, AWS, Kafka, Docker, and Kubernetes.
+
+I have worked on secure and scalable applications involving transaction processing, API development, event-driven systems, cloud deployments, and CI/CD automation.
+
+I also have experience integrating Generative AI and LLM APIs into applications for document summarization, customer assistance, and data analysis.
+
+---
+
+## Technical Skills
 
 **Languages**  
-• Java (8,11,17), Python, TypeScript  
+Java (8, 11, 17, 21), JavaScript, TypeScript, SQL, PL/SQL
 
 **Backend**  
-• Spring Boot, Spring Security, JPA/Hibernate, REST APIs, JWT, OAuth  
+Spring Boot, Spring MVC, Spring Cloud, Spring Security, Microservices, REST APIs, Hibernate, JPA, Spring Batch
 
 **Frontend**  
-• React (TSX), Tailwind CSS, HTML, CSS  
+React, Angular, TypeScript, Redux, NgRx, HTML5, CSS3, Bootstrap
 
-**DevOps and Cloud**  
-• AWS (EC2, ECS, EKS), Docker, Kubernetes, Jenkins, CI/CD  
+**Cloud & DevOps**  
+AWS, Docker, Kubernetes, Amazon EKS, Amazon ECS, Jenkins, GitHub Actions, AWS CodePipeline, CloudFormation, Maven
 
-**Testing and Tools**  
-• JUnit, Mockito, Postman, Git, GitHub, Bitbucket  
+**Messaging**  
+Apache Kafka, RabbitMQ, AWS SQS
 
+**Databases**  
+Oracle, PostgreSQL, MongoDB
 
-## GitHub Insights
+**Security**  
+OAuth 2.0, JWT, OIDC, RBAC
 
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=Swarna7414&show_icons=true&theme=radical"
-          alt="GitHub Stats"
-          width="100%"
-        />
-      </td>
-      <td>
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarna7414&layout=compact&theme=radical"
-          alt="Top Languages"
-          width="100%"
-        />
-      </td>
-    </tr>
-  </table>
-</p>
+**Testing & Monitoring**  
+JUnit 5, Mockito, Testcontainers, REST Assured, Postman, SonarQube, ELK, Splunk, Prometheus, Grafana, CloudWatch
 
+**AI**  
+Generative AI, LLM APIs, AI application integration
+
+---
 
 ## Professional Experience
 
-### Tata Consultancy Services (TCS) – Citi Group  
-**Backend Developer | Jul 2022 – Dec 2024**
+### Deutsche Bank
+**Senior Full Stack Java Developer | Jan 2026 – Present**
 
-• Contributed to the migration of a monolithic Tibco application into a microservices-based architecture  
-• Designed and developed Spring Boot REST APIs supporting enterprise customer onboarding workflows  
-• Implemented database persistence using Spring Data JPA and Hibernate  
-• Achieved approximately 80 percent unit test coverage using JUnit and Mockito  
-• Built and maintained CI/CD pipelines using Jenkins integrated with Bitbucket  
-• Collaborated with developers, QA, and DevOps teams during releases and production deployments  
+- Develop Java 17/21 microservices using Spring Boot and Spring Cloud.
+- Build REST APIs using OpenAPI for enterprise banking applications.
+- Develop Angular applications using TypeScript, RxJS, and NgRx.
+- Implement security using OAuth 2.0, JWT, OIDC, and RBAC.
+- Deploy applications using Docker, Kubernetes, and Amazon EKS.
+- Develop event-driven services using Kafka and RabbitMQ.
+- Integrate LLM APIs into banking workflows and internal applications.
+- Build CI/CD pipelines using Jenkins, GitHub Actions, and AWS CodePipeline.
+- Implement automated testing using JUnit, Mockito, and Testcontainers.
+- Monitor applications using Prometheus, Grafana, ELK, and CloudWatch.
 
-### CorPay – Java Developer
+### University of South Dakota
+**Software Engineer | Jan 2025 – Dec 2025**
 
-• Migrated source code from SVN to Bitbucket following modern version-control practices  
-• Upgraded applications from Java 8 to Java 17 using OpenRewrite  
-• Assisted with migration from Java EE to Jakarta EE  
-• Tested and validated APIs using Postman  
-• Supported containerized deployments using Docker and Kubernetes  
+- Built AI-powered web applications using React and Spring Boot.
+- Integrated AI models for medical image and video analysis.
+- Developed REST APIs for AI-powered applications.
+- Implemented authentication using JWT, OAuth 2.0, and OTP.
+- Containerized applications using Docker.
+- Deployed applications to AWS EC2.
+- Developed frontend components for research applications.
 
+### Tata Consultancy Services
+**Full Stack Java Developer | Jun 2022 – Dec 2024**
 
-### University of South Dakota  
-**Graduate Research Assistant – Frontend Developer | Jan 2025 – May 2026**
+- Developed Java 11/17 microservices using Spring Boot.
+- Built REST APIs for banking and transaction workflows.
+- Developed React applications using TypeScript and Redux.
+- Implemented Spring Cloud services using Eureka and Feign.
+- Developed event-driven services using Kafka and AWS SQS.
+- Implemented security using Spring Security, OAuth 2.0, JWT, and RBAC.
+- Deployed applications using Docker, Kubernetes, EKS, and OpenShift.
+- Worked with Oracle and MongoDB for high-volume applications.
+- Supported production systems, troubleshooting, and root-cause analysis.
 
-• Built frontend interfaces using React to visualize AI and machine learning research models  
-• Improved usability and responsiveness of department websites using HTML and CSS  
-• Collaborated with faculty and research teams to convert research requirements into user-facing features  
-• Integrated backend APIs into frontend applications for real-time results and visual outputs  
+### Genpact
+**Junior Developer | Jan 2021 – May 2022**
 
+- Developed applications using Java, Spring Boot, and REST APIs.
+- Built microservices and Spring Batch applications.
+- Developed AWS solutions using EC2, RDS, S3, and CloudFormation.
+- Worked with Oracle, SQL, PL/SQL, Hibernate, and JPA.
+- Supported WebSphere to Tomcat migration.
+- Automated deployments using Jenkins, Maven, and Git.
+- Supported production troubleshooting and application maintenance.
+
+---
 
 ## Projects
 
-### DentiMap – AI Dental Diagnostics Web Application – *[link](https://github.com/DebeshJha/DentiMap)*
+### DentiMap — AI Dental Diagnostics
 
-• Developed a full-stack AI web application for dental image analysis  
-• Built a responsive frontend using React, TypeScript, and Tailwind CSS  
-• Implemented Spring Security with JWT-based authentication and BCrypt encryption  
-• Designed secure flows for registration, login, OTP verification, password reset, and OAuth  
-• Integrated AI services to analyze dental scans and return structured diagnostic insights  
+AI-powered web application for dental image analysis.
 
+**Technologies:** React, TypeScript, Tailwind CSS, Spring Boot, Spring Security, JWT
 
-### SwaRAG – Stack Overflow Retrieval and Analysis Engine – *[link](https://swarna7414.github.io/SwaRAG-FrontEnd/)*
+- Developed a responsive React frontend.
+- Built secure authentication using JWT and BCrypt.
+- Implemented registration, login, OTP, and password reset.
+- Integrated AI services for dental image analysis.
+- Developed REST APIs for frontend and AI integration.
 
+[View Project](https://github.com/DebeshJha/DentiMap)
 
-• Built a custom search engine using BM25 ranking and inverted indexing  
-• Implemented data ingestion via the Stack Exchange API  
-• Developed a Flask REST API and React frontend  
-• Containerized using Docker and deployed on Hugging Face Spaces  
+---
 
+### SwaRAG — Stack Overflow Retrieval Engine
+
+Search and retrieval application for Stack Overflow content.
+
+**Technologies:** Python, Flask, React, BM25, Docker
+
+- Implemented BM25-based document ranking.
+- Built an inverted index for efficient search.
+- Integrated Stack Exchange API for data ingestion.
+- Developed Flask REST APIs.
+- Built a React-based frontend.
+- Containerized the application using Docker.
+
+[Live Demo](https://swarna7414.github.io/SwaRAG-FrontEnd/)
+
+---
 
 ## Education
 
-**Master’s in Computer Science** – University of South Dakota  
-GPA: 3.9 / 4.0  
+**Master of Science in Computer Science**  
+University of South Dakota  
+GPA: 3.9 / 4.0
 
-**Bachelor’s in Mechanical Engineering** – Sree Vidyanikethan Engineering College  
+**Bachelor of Engineering in Mechanical Engineering**  
+Sree Vidyanikethan Engineering College
 
+---
 
 ## Certifications
 
-• Building Microservices with Spring Boot  
-• Mathematics for Machine Learning  
-• Java Programming  
+- Building Microservices with Spring Boot
+- Mathematics for Machine Learning
+- Java Programming
 
+---
 
-## Connect With Me
-
-• Portfolio: https://swarna7414.github.io/SwarnaSaiSankar/  
-• LinkedIn: https://www.linkedin.com/in/sai-sankar-swarna  
-• Email: swarnasaisankar369@gmail.com  
+## GitHub Stats
 
 <p align="center">
-  Thank you for visiting my GitHub profile. Feel free to explore my repositories and connect.
+  <img src="https://github-readme-stats.vercel.app/api?username=Swarna7414&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarna7414&layout=compact&theme=radical&hide_border=true" />
 </p>
+
+---
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/sai-sankar-swarna-a1084a203/
+- Portfolio: https://swarna7414.github.io/Swarna-s-portfolio/#home
+- Email: swarnasaisankar003@gmail.com
