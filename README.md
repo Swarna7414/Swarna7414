@@ -72,7 +72,7 @@ Generative AI, LLM APIs, AI application integration
 - Monitor applications using Prometheus, Grafana, ELK, and CloudWatch.
 
 ### University of South Dakota
-**Software Engineer | Jan 2025 – Dec 2025**
+**Software Engineer | Jan 2025 - Dec 2025**
 
 - Built AI-powered web applications using React and Spring Boot.
 - Integrated AI models for medical image and video analysis.
@@ -83,7 +83,7 @@ Generative AI, LLM APIs, AI application integration
 - Developed frontend components for research applications.
 
 ### Tata Consultancy Services
-**Full Stack Java Developer | Jun 2022 – Dec 2024**
+**Full Stack Java Developer | Jun 2022 - Dec 2024**
 
 - Developed Java 11/17 microservices using Spring Boot.
 - Built REST APIs for banking and transaction workflows.
@@ -96,7 +96,7 @@ Generative AI, LLM APIs, AI application integration
 - Supported production systems, troubleshooting, and root-cause analysis.
 
 ### Genpact
-**Junior Developer | Jan 2021 – May 2022**
+**Junior Developer | Jan 2021 - May 2022**
 
 - Developed applications using Java, Spring Boot, and REST APIs.
 - Built microservices and Spring Batch applications.
