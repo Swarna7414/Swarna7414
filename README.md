@@ -14,13 +14,7 @@ Senior Java Full Stack Developer | Java | Spring Boot | Microservices | React | 
 
 ## About Me
 
-I am a Senior Java Full Stack Developer with 5.5+ years of experience building enterprise applications across banking, financial services, and healthcare.
-
-My primary experience is in Java, Spring Boot, Microservices, REST APIs, React, Angular, AWS, Kafka, Docker, and Kubernetes.
-
-I have worked on secure and scalable applications involving transaction processing, API development, event-driven systems, cloud deployments, and CI/CD automation.
-
-I also have experience integrating Generative AI and LLM APIs into applications for document summarization, customer assistance, and data analysis.
+I am a Senior Java Full Stack Developer with 5.5+ years of experience building enterprise applications across banking, financial services, and healthcare. My primary experience is in Java, Spring Boot, Microservices, REST APIs, React, Angular, AWS, Kafka, Docker, and Kubernetes. I have worked on secure and scalable applications involving transaction processing, API development, event-driven systems, cloud deployments, and CI/CD automation.I also have experience integrating Generative AI and LLM APIs into applications for document summarization, customer assistance, and data analysis.
 
 ---
 
