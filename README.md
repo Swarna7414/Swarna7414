@@ -143,9 +143,6 @@ Search and retrieval application for Stack Overflow content.
 University of South Dakota  
 GPA: 3.9 / 4.0
 
-**Bachelor of Engineering in Mechanical Engineering**  
-Sree Vidyanikethan Engineering College
-
 ---
 
 ## Certifications
