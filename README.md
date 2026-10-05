@@ -58,7 +58,7 @@ Generative AI, LLM APIs, AI application integration
 ## Professional Experience
 
 ### Deutsche Bank
-**Senior Full Stack Java Developer | Jan 2026 – Present**
+**Senior Full Stack Java Developer | Jan 2026 - Present**
 
 - Develop Java 17/21 microservices using Spring Boot and Spring Cloud.
 - Build REST APIs using OpenAPI for enterprise banking applications.
@@ -110,7 +110,7 @@ Generative AI, LLM APIs, AI application integration
 
 ## Projects
 
-### DentiMap — AI Dental Diagnostics
+### DentiMap - AI Dental Diagnostics
 
 AI-powered web application for dental image analysis.
 
@@ -126,7 +126,7 @@ AI-powered web application for dental image analysis.
 
 ---
 
-### SwaRAG — Stack Overflow Retrieval Engine
+### SwaRAG - Stack Overflow Retrieval Engine
 
 Search and retrieval application for Stack Overflow content.
 
